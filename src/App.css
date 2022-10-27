@@ -40,10 +40,6 @@
   background-color: black;
   height: 35px;
 }
-/* .color{
-  background-color: #61dafb;
-  height: 100%;
-} */
 .input1{
   background-color:orange;
   height: 300px;
@@ -51,7 +47,6 @@
   text-align: center;
   margin-left: 600px;
   margin-top: 200px;
-  /* border-radius: 20px; */
   border: 2px solid black;
 }
 .email{
@@ -137,7 +132,6 @@ padding: 2px;
   width: 60px;
   border-radius: 120px;
   margin-right: 40px;
-  /* margin-bottom: 40px; */
   border: 1px solid black;
 }
 .photos{
@@ -151,7 +145,6 @@ padding: 2px;
   height: 200px;
   width: 200px;
   border-radius: 10px;
-  /* margin-right: 40px; */
   border: 1px solid black;
 }
 .icon{
@@ -172,7 +165,6 @@ padding: 2px;
   background-color: black;
   color: white;
   margin-right: 150px;
-  /* height: 20px; */
 }
 .cost{
   color: blue;
@@ -183,10 +175,6 @@ padding: 2px;
 .names{
   color: black;
 }
-/* .remove{
-  display: flex;
-  gap: 5px;
-} */
 .cartitems{
   margin:30px auto;
   width: 70%;
@@ -234,15 +222,14 @@ padding: 2px;
   padding-left: 22px;
   font-size: 20px;
   font-weight: 700;
-  /* text-align: center; */
   border-top: 2px solid black;
   padding-left: 40%;
-  /* float: right; */
+ 
 }
 .totalprice{
   display: flex;
   justify-content: center;
-  /* padding-left:80%; */
+ 
 }
 .checkoutbutton{
   padding-left: 100px;
@@ -261,7 +248,6 @@ padding: 2px;
 }
 .checkoutnames{
   text-align: center;
-  /* margin-top:50px; */
   margin: 30px auto;
 }
 .name{
