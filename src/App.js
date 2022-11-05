@@ -15,10 +15,8 @@ function App() {
   return (
     <div>
    <Routes>
-   <Route path="/" element={<Homepage></Homepage>}></Route>
-   <Route path="/Online" element={<Online></Online>}></Route>
+   <Route path="/" element={<Login></Login>}></Route>
    <Route path="/Login" element={<Login></Login>}></Route>
-   <Route path="/Cards" element={<Cards></Cards>}></Route>
    <Route path="/Homepage" element={<Homepage></Homepage>}></Route>
    <Route path="/Addtocart" element={<Addtocart></Addtocart>}></Route>
    <Route path="/Cart" element={<Cart></Cart>}></Route>

@@ -1,6 +1,7 @@
 import React from "react";
 import {  FaSearch } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import delivery from './delivery.jpg'
 function Confirm(){
     return(
         <div>
@@ -18,6 +19,7 @@ function Confirm(){
             }}>  Cart </div></div>  
                <Link  to="/Login" className="cart" >Logout</Link>
                 </div></div>
+                {/* <img className="deliveryimage" src={delivery}></img> */}
         <h2 className="confirm">
             Your order is placed successfully
         </h2>
