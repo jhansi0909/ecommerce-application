@@ -35,7 +35,7 @@ else{
  setData(x)
  console.log(quantity)  
  console.log(obj.cart)
- }
+  }
 const handleRemoving=(obj)=>{
   var x
  x=data.map((y)=>{
@@ -110,7 +110,6 @@ return(
          </div>
          </div>
         </div>
-    
-    );
+ );
 }
 export default Cart;

@@ -1,7 +1,5 @@
-import React, { useState } from "react"; 
-// import SearchIcon from '@material-ui/icons' 
+import React, { useState } from "react";  
 import { FaSearch } from "react-icons/fa";
-
 import stylish from './stylish.jpg'
 import sarees from './sarees.jpg'
 import kids from './kids.jpg'
@@ -159,5 +157,5 @@ function Homepage(){
         </div>
         </div>
     );
-}
+}      
 export default Homepage;
