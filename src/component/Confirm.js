@@ -16,7 +16,7 @@ function Confirm(){
              <div> <div   className="cart" onClick={()=>{
                 // Cart(data)
             }}>  Cart </div></div>  
-               <Link  to="/Logout" className="cart" >Logout</Link>
+               <Link  to="/Login" className="cart" >Logout</Link>
                 </div></div>
         <h2 className="confirm">
             Your order is placed successfully

@@ -46,7 +46,7 @@ function Checkout(){
                  <div> <div   className="cart" onClick={()=>{
                     // Cart(data)
                 }}>  Cart </div></div>  
-                   <Link  to="/Logout" className="cart" >Logout</Link>
+                   <Link  to="/Login" className="cart" >Logout</Link>
                     </div></div>
         <div className="Checkoutpage">
           <div className="checkoutnames">

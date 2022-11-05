@@ -17,7 +17,7 @@ function Logout(){
              <div> <div   className="cart" onClick={()=>{
                 // Cart(data)
             }}>  Cart </div></div>  
-               <Link  to="/Logout" className="cart" >Logout</Link>
+               <Link  to="/Homepage" className="cart" >Logout</Link>
                 </div></div>
     <h2 className="logout">
         Log out Successfully
